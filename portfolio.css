@@ -1,0 +1,183 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: #535252;
+  }
+  
+  /* Header Styles */
+  header {
+    background: linear-gradient(135deg, #61e773, #6a95df);
+    color: #fff;
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  
+  header p {
+    margin: 10px 0 0;
+    font-size: 1.4rem;
+    font-weight: 300;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin: 0 20px;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    transition: color 0.3s ease;
+  }
+  
+  header nav ul li a:hover {
+    color: #ff9f43;
+  }
+  
+  /* About Section */
+  .about {
+    padding: 80px 0;
+    background: #fff;
+    text-align: center;
+  }
+  
+  .about h2 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #092c68;
+  }
+  
+  .about p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.8;
+  }
+  
+  /* Projects Section */
+  .projects {
+    padding: 80px 0;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #062c6e;
+  }
+  
+  .project-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .project-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 30px;
+    margin: 15px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .project-card h3 {
+    margin: 0 0 15px;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #2c3e50;
+  }
+  
+  .project-card p {
+    margin: 0 0 20px;
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #a16731;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    transition: background 0.3s ease;
+  }
+  
+  .btn:hover {
+    background: #e2984e;
+  }
+  
+  /* Contact Section */
+  .contact {
+    padding: 80px 0;
+    background: #fff;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #072964;
+  }
+  
+  .contact p {
+    max-width: 800px;
+    margin: 0 auto 30px;
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  /* Footer */
+  footer {
+    background: linear-gradient(135deg, #1946d8, #071c3f);
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 1rem;
+  }
