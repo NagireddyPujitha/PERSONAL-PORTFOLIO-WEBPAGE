@@ -102,14 +102,17 @@ The portfolio can be customized by adding new sections, updating the content, or
 management system. It can also be deployed to a cloud platform for public access.
 
 Detailed Workflow
+
 1. Frontend Workflow
 
 The frontend is built using HTML, CSS, and JavaScript. The HTML provides the structure, while CSS is used for styling and layout. JavaScript adds interactivity and 
 dynamic features. Bootstrap is used to create a responsive design, and Font Awesome icons are used to enhance the visual appeal.
+
 2. Development Workflow
 
 The project is developed using Visual Studio Code, with Git and GitHub for version control. The portfolio is deployed using GitHub Pages, making it accessible to 
 anyone with an internet connection. The development process includes writing code, testing, and debugging to ensure a high-quality final product.
+
 3. Optimization and Deployment
 
 The portfolio is optimized for performance by minimizing the size of assets, using efficient coding practices, and ensuring compatibility across different browsers 
@@ -126,3 +129,4 @@ choice for anyone looking to build or use a personal portfolio.
 
 ![Image](https://github.com/user-attachments/assets/13b2b0c2-777c-4284-82b3-f09d86b9e9aa)
 ![Image](https://github.com/user-attachments/assets/69560788-8908-48d0-bc23-cc558d341f19)
+![Image](https://github.com/user-attachments/assets/e9042742-9135-4980-bc63-e52b8af38674)
