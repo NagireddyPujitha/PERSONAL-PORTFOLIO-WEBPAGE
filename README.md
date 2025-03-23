@@ -114,7 +114,8 @@ anyone with an internet connection. The development process includes writing cod
 
 The portfolio is optimized for performance by minimizing the size of assets, using efficient coding practices, and ensuring compatibility across different browsers 
 and devices. Once the development is complete, the portfolio is deployed to GitHub Pages, making it live and accessible to the public.
-Conclusion
+
+CONCLUSION
 
 The Personal Portfolio Project is a powerful and versatile platform for showcasing my skills and experiences. Built using modern web development technologies like 
 HTML, CSS, JavaScript, and Bootstrap, it offers a seamless and engaging user experience. Whether you are a potential employer, client, or collaborator, this 
@@ -122,3 +123,5 @@ portfolio provides a comprehensive overview of my work and capabilities. With it
 choice for anyone looking to build or use a personal portfolio.
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/13b2b0c2-777c-4284-82b3-f09d86b9e9aa)
